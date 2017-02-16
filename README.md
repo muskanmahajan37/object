@@ -1,0 +1,9 @@
+XX
+===
+
+Object
+
+License
+---
+
+GPL
